@@ -1,0 +1,215 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>nullnein</title>
+  <subtitle>Collecting some work, some thoughts, and jumping to the beat.</subtitle>
+  <updated>2022-02-05T13:59:29+01:00</updated>
+  <author>
+    <name>mathis</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator>
+  <rights> © 2022 mathis </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>2022-02-01 Stuff</title>
+    <link href="http://localhost:4000/posts/stuff/" rel="alternate" type="text/html" title="2022-02-01 Stuff" />
+    <published>2022-02-01T00:00:00+01:00</published>
+  
+    <updated>2022-02-01T00:00:00+01:00</updated>
+  
+    <id>http://localhost:4000/posts/stuff/</id>
+    <content src="http://localhost:4000/posts/stuff/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+    <category term="stuff" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  The Third Pole is a publication on issues related to the climate crisis with a special focus on Global South countries. They make strong use of linking to scientific papers and interlinking other reporting.
+    
+      I was especially taken by their report on natural calamities causing mental health issues in northern Pakistan. Apparently, mental health effects of the climate crisis are unde...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>2022-01-23 Stuff</title>
+    <link href="http://localhost:4000/posts/stuff/" rel="alternate" type="text/html" title="2022-01-23 Stuff" />
+    <published>2022-01-23T00:00:00+01:00</published>
+  
+    <updated>2022-01-23T00:00:00+01:00</updated>
+  
+    <id>http://localhost:4000/posts/stuff/</id>
+    <content src="http://localhost:4000/posts/stuff/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+    <category term="stuff" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  Adobe now has AI-powered video editing that dissolves video into a foreground and background and allows you to modify them. The two minute papers video shows some examples but sadly doesn’t really explain how it works.
+  TikTok spilled out a very timely start into a week within the omicron wave.
+
+
+https://twitter.com/DEVOPS_BORAT/statuses/159849628819402752
+
+https://twitter.com/DEVOPS_BORAT/...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Detail</title>
+    <link href="http://localhost:4000/posts/Detail/" rel="alternate" type="text/html" title="Detail" />
+    <published>2022-01-23T00:00:00+01:00</published>
+  
+    <updated>2022-01-23T00:00:00+01:00</updated>
+  
+    <id>http://localhost:4000/posts/Detail/</id>
+    <content src="http://localhost:4000/posts/Detail/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+    <category term="learning" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Detail makes a story pop.
+
+
+  What was the weather like?
+  What did the trees look like?
+  How was the smell, did the small change?
+  How does it feel to be hungry? What goes through your mind? Can you give us a picture of this scenery?
+  What do you do with your hands if you feel uncomfortable? Did you already do this when you were young?
+  What is something you like to spend money on? What do...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Ungestört</title>
+    <link href="http://localhost:4000/posts/ersterkuss/" rel="alternate" type="text/html" title="Ungestört" />
+    <published>2022-01-23T00:00:00+01:00</published>
+  
+    <updated>2022-01-23T00:00:00+01:00</updated>
+  
+    <id>http://localhost:4000/posts/ersterkuss/</id>
+    <content src="http://localhost:4000/posts/ersterkuss/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+    <category term="learning" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Natürlich war es eine Auszeichnung von Bärbel ein Briefchen zu bekommen. Er war ja nicht der Hübscheste. Zugesteckt zwischen den Schulbänken, hin und her, bis Peter sie nach Hause bringen durfte. Aus der Schule raus und durch die Kleinstadt hindurch, an seinem Elternhaus vorbei und dann diese Stiege hoch, spazierten die beiden. Damals hieß das: Miteinander gehen.
+
+Zum Zwischenstop saßen sie auf...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Effizient im Flaschenwald</title>
+    <link href="http://localhost:4000/posts/effizient-im-flaschenwald/" rel="alternate" type="text/html" title="Effizient im Flaschenwald" />
+    <published>2022-01-17T00:00:00+01:00</published>
+  
+    <updated>2022-01-17T00:00:00+01:00</updated>
+  
+    <id>http://localhost:4000/posts/effizient-im-flaschenwald/</id>
+    <content src="http://localhost:4000/posts/effizient-im-flaschenwald/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+    <category term="learning" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Die Pampelmusen in grellem Orange, die Kräuter vom Mittelmeer, der knackfrische Salatgarten in zartem Grün und beruhigendem Magenta; all das perlt an der rund gebogenen Maske dieses Konsumenten ab.
+
+Er ist groß und unter seinen grauen Haaren scheint noch ein fahles braun durch. Mit festem Griff schiebt dieser Käufer seinen leeren Einkaufswagen weiter. Bis zu Gang vier klafft vor ihm dieses Drah...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
